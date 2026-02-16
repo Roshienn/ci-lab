@@ -1,0 +1,6 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Simple weather app CI test",
+  "main": "app.js"
+}
